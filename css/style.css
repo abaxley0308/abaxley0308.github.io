@@ -1,0 +1,15 @@
+.my-col{
+	margin-bottom: 20px;
+}
+.my-col img{
+	height:250px;
+}
+
+
+.my-img img{
+	width: 100%;
+}
+
+.sub-img{
+	float: left;
+}
